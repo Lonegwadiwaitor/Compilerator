@@ -8,4 +8,5 @@ This isn't finished, expect to compile small simple scripts, nothing else. (yet!
 
 
 # Special thanks to:
-Acedia (Loretta AST)
+[Acedia](https://github.com/TheGreatSageEqualToHeaven/)
+[Loretta](https://github.com/LorettaDevs/Loretta)
